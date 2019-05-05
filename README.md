@@ -35,7 +35,15 @@
 
 ## Scripts for Searching 
 * script_assembly.R - For Searching NCBI Assemblies 
+```
+# call for asseblies is:
+  term <- paste( "\"",x,"\"[All Fields]", sep="")
+  r <- EUtilsSummary(term, type='esearch', db='pubmed', mindate=2008, maxdate=2018)
+```
 * script_genome.R - For Searching NCBI Genomes
+```
+# call for genomes is:
+```
 * script_google.py - For Searching Google Scholar
 * script_google.sh - For Searching Google Scholar (Wrapper)
 * script_pubmed.R - For Searching NCBI Pubmed
