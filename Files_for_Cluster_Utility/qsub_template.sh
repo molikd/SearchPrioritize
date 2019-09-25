@@ -2,7 +2,7 @@
 #$ -M dmolik@nd.edu
 #$ -m abe
 #$ -pe smp 1
-#$ -t 2-4
+#$ -t 1-4
 #$ -tc 2
 #$ -N search_template
 
