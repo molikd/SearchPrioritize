@@ -11,7 +11,7 @@ export PATH=/afs/crc.nd.edu/user/d/dmolik/local/opt/ncbi-blast-2.6.0+/bin:/afs/c
 module load R
 export R_LIBS=/afs/crc.nd.edu/user/d/dmolik/R/x86_64-pc-linux-gnu-library/3.5:$R_LIBS
 
-module load python
+python/2.7.15
 
 OG_DIR=$( pwd )
 DIR="/tmp/search_template-${USER}-${JOB_ID}-${SGE_TASK_ID}"
