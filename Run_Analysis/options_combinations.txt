@@ -1,1 +1,4 @@
-Fungi.txt
+Insecta_aa.txt
+Insecta_ab.txt
+Insecta_ac.txt
+Insecta_ad.txt
