@@ -2,7 +2,7 @@
 #$ -M dmolik@nd.edu
 #$ -m abe
 #$ -pe smp 2
-#$ -t 1-4
+#$ -t 4-4
 #$ -N search_template
 
 export PATH=/afs/crc.nd.edu/user/d/dmolik/bin:/afs/crc.nd.edu/user/d/dmolik/local/lib/perl5/bin:/afs/crc.nd.edu/user/d/dmolik/local/bin:/afs/crc.nd.edu/user/d/dmolik/local/opt/sratoolkit.2.8.2-1-centos_linux64/bin:/afs/crc.nd.edu/user/d/dmolik/local/opt/mothur:$PATH

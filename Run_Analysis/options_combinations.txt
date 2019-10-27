@@ -1,4 +1,1 @@
-Insecta_aa.txt
-Insecta_ab.txt
-Insecta_ac.txt
-Insecta_ad.txt
+Insecta_abc.txt
