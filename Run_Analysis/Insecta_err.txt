@@ -177,9 +177,9 @@ Neope oberthüri
 Oeneis aëllo
 Satyrus püngeleri
 Arachnopus gutt_lifer
-Hilipus de_geeri
-Polydrosus van_volxemi
-Psepholax mac_leayi
-Anapygus de_haani
-Prodioctes de_haani
-Spenophorus de_haani
+Hilipus de geeri
+Polydrosus van volxemi
+Psepholax mac leayi
+Anapygus de haani
+Prodioctes de haani
+Spenophorus de haani
