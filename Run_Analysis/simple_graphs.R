@@ -14,4 +14,7 @@ plot(density(sp_pubmed_results.nz$V3))
 sp_pubmed_results.nz.lt20 <- sp_pubmed_results.nz[sp_pubmed_results.nz$V3<20,]
 plot(density(sp_pubmed_results.nz.lt20$V3))
 
+mean(sp_pubmed_results$V3)
+mean(sp_pubmed_results[sp_pubmed_results$V3!=0,]$V3)
+
 plot(sp_pubmed_results.nz[order(-sp_pubmed_results.nz$V3),]$V3)
