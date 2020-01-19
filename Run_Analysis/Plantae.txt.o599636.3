@@ -1,0 +1,10 @@
+Loading R/3.5.3
+  Loading requirement: ompi/3.0.0/gcc/4.8.5
+/opt/sge/crc/spool/q16copt103/job_scripts/599636: line 14: python/2.7.15: No such file or directory
+pubmed
+Error in file(con, "r") : 
+  cannot open the connection to 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term="Ophiorrhiza+glabrifolia"[All+Fields]&mindate=2008&maxdate=2018&retmax=1000&tool=RISmed&email=s.a.kovalchik@gmail.com'
+Calls: find_data -> EUtilsSummary -> readLines -> file
+In addition: Warning message:
+In file(con, "r") :
+  cannot open URL 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term="Ophiorrhiza+glabrifolia"[All+Fields]&mindate=2008&maxdate=2018&retmax=1000&tool=RISmed&email=s.a.kovalchik@gmail.com': HTTP status was '429 Unknown Error'
