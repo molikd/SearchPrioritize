@@ -2,7 +2,7 @@
 
 * README.md - This File, File Manifest
 
-## Manifests of names of Sepcies
+## Manifests of names of Species
 * Animalia_1.txt
 * Animalia_2.txt
 * Animalia_3.txt
