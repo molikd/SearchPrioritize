@@ -1,4 +1,4 @@
-# API Search Repoisitory of Data for Genome Sequening
+# API Search Repository of Data for Genome Sequening
 
 * README.md - This File, File Manifest
 
